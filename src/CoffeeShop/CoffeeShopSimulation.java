@@ -115,6 +115,7 @@ class Customer extends Thread {
     }
 }
 
+//this is the barista class
 class Barista extends Thread {
     private final CoffeeShop coffeeShop;
 
